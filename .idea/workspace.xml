@@ -1,20 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="" />
+    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Starting OpenUSD Developer course">
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/OpenUSD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenUSD.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;n00bcybot&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/n00bcybot/OpenUSD&quot;,
+    &quot;accountId&quot;: &quot;3f63a330-ea36-4913-b9a5-4688709985d6&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="3GRmKCPpTwpkY8ZVlmGZXeLLX00" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.create_stage.executor": "Run",
+    "Python.example2.executor": "Run",
+    "Python.example3.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/omniverse/kit-app-template",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fresh\Desktop\repos\OpenUSD\OpenUsdDev\Module1" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -32,6 +83,30 @@
       <option name="presentableId" value="Default" />
       <updated>1783942689390</updated>
     </task>
+    <task id="LOCAL-00001" summary="Starting OpenUSD Developer course">
+      <option name="closed" value="true" />
+      <created>1783943274379</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783943274379</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Starting OpenUSD Developer course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Starting OpenUSD Developer course" />
   </component>
 </project>
