@@ -1,0 +1,15 @@
+#usda 1.0
+
+def Xform "root"
+{
+    def Scope "geo"
+    {
+        def Xform "sphere"
+        {
+            def Sphere "mesh"
+            {
+            }
+        }
+    }
+}
+

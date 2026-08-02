@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Learning working with stage">
-      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example4.py" afterDir="false" />
+    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.2_Prims/example1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.2_Prims/example4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.3_Properties/example1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/fisrt_stage.usda" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/first_stage.usda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/extra_layer.usdc" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/_assets/extra_layer.usdc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/first_stage.usda" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/_assets/first_stage.usda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/in_memory_stage.usda" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/_assets/in_memory_stage.usda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/root_layer_example.usda" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/_assets/root_layer_example.usda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/example1.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/example1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/example2.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/example2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/example3.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/example3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/example4.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/example4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +60,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.create_stage.executor": "Run",
+    "Python.example1.executor": "Run",
     "Python.example2.executor": "Run",
     "Python.example3.executor": "Run",
     "Python.example4.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -62,6 +74,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fresh\Desktop\repos\OpenUSD\OpenUsdDev\Module1\Stage" />
       <recent name="C:\Users\fresh\Desktop\repos\OpenUSD\OpenUsdDev\Module1" />
     </key>
   </component>
@@ -105,10 +118,49 @@
       <option name="project" value="LOCAL" />
       <updated>1785585635478</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Creating a stage and adding a sublayer">
+      <option name="closed" value="true" />
+      <created>1785688053253</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1785688053253</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Creating a stage and adding a sublayer">
+      <option name="closed" value="true" />
+      <created>1785688062806</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1785688062806</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1785688091484</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1785688091484</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -122,6 +174,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting OpenUSD Developer course" />
     <MESSAGE value="Learning working with stage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning working with stage" />
+    <MESSAGE value="Creating a stage and adding a sublayer" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
 </project>
