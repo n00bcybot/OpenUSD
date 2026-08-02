@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Starting OpenUSD Developer course">
-      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/OpenUSD.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/OpenUSD.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Learning working with stage">
+      <change afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/example4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/fisrt_stage.usda" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/_assets/first_stage.usda" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     "Python.create_stage.executor": "Run",
     "Python.example2.executor": "Run",
     "Python.example3.executor": "Run",
+    "Python.example4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -91,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1783943274379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Learning working with stage">
+      <option name="closed" value="true" />
+      <created>1785585616639</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785585616639</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Learning working with stage">
+      <option name="closed" value="true" />
+      <created>1785585635478</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1785585635478</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Starting OpenUSD Developer course" />
-    <option name="LAST_COMMIT_MESSAGE" value="Starting OpenUSD Developer course" />
+    <MESSAGE value="Learning working with stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Learning working with stage" />
   </component>
 </project>
