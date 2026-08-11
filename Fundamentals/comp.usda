@@ -1,0 +1,11 @@
+#usda 1.0
+(
+    subLayers = [
+        @./layout.usda@
+    ]
+)
+
+over "HeroSphere"
+{
+    double radius = 7.5
+}

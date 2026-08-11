@@ -1,6 +1,6 @@
 #usda 1.0
 
-def Sphere "MySphere"
+def Sphere "HeroSphere"
 {
     double radius = 2.0
 }
