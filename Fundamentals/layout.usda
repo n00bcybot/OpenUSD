@@ -1,16 +1,9 @@
 #usda 1.0
 
-<<<<<<< HEAD
+
 # Creating a simple sphere prim and setting its radius attribute
-def Xform "Geo"
-{
-    def Sphere "HeroSphere"
-    {
-        double radius = 2.0
-    }
-=======
 def Sphere "HeroSphere"
 {
     double radius = 2.0
->>>>>>> 4373b718e26c3477f1d75e720c16dfbcf400778b
 }
+

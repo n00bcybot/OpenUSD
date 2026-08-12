@@ -1,3 +1,10 @@
-    def Xform "Chair_A" (
-        prepend references = @./Geo/layout.usda@</Spher>
-    )
+#usda 1.0
+
+def Xform "SphereXform" {
+    prepend references = @./layout.usda@</HeroSphere>
+}
+    
+{
+    float3 xformOp:translate = (-5, 0, 0)
+    uniform token[] xformOpOrder = ["xformOp:translate"]
+}
