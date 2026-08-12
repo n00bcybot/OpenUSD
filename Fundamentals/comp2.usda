@@ -1,0 +1,3 @@
+    def Xform "Chair_A" (
+        prepend references = @./Geo/layout.usda@</Spher>
+    )

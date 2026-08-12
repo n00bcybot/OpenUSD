@@ -1,7 +1,7 @@
 #usda 1.0
 (
     subLayers = [
-        @./extra_layer.usdc@
+        @./extra_layer.usda@
     ]
 )
 

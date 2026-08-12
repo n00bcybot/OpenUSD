@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Learning properties" />
+    <list default="true" id="8fb0e632-6eb8-4a8d-a971-7b454681fc93" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/Fundamentals/comp.usda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/_assets/root_layer_example.usda" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/_assets/root_layer_example.usda" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenUsdDev/Module1/1.1_Stage/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +55,7 @@
     &quot;Python.example2.executor&quot;: &quot;Run&quot;,
     &quot;Python.example3.executor&quot;: &quot;Run&quot;,
     &quot;Python.example4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.example5.executor&quot;: &quot;Run&quot;,
     &quot;Python.test.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -153,7 +159,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785756523645</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1785756621072</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1785756621072</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +202,7 @@
     <MESSAGE value="Creating a stage and adding a sublayer" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
     <MESSAGE value="Learning properties" />
-    <option name="LAST_COMMIT_MESSAGE" value="Learning properties" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>

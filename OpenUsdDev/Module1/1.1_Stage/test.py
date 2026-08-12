@@ -17,7 +17,7 @@ UsdGeom.Xform.Define(stage, "/World")
 
 # Create an additional layer (in a different format) and add it as a sublayer:
 
-new_layer = Sdf.Layer.CreateNew("_assets/extra_layer.usdc")
+new_layer = Sdf.Layer.CreateNew("_assets/extra_layer.usda")
 print(os.path.basename(new_layer.identifier))
 new_layer_name = "./" + os.path.basename(new_layer.identifier)
 
