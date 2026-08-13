@@ -2,7 +2,7 @@
 
 
 # Creating a simple sphere prim and setting its radius attribute
-def Sphere "HeroSphere"
+def Sphere "MySphere"
 {
     double radius = 2.0
 }
