@@ -6,6 +6,8 @@ _dir = "_assets/"
 
 # Define a file path name:
 file_path = _dir + file_name + extension
+print(file_path)
 # Create a stage at the given `file_path`:
 stage = Usd.Stage.CreateNew(file_path)
+
 print(stage.ExportToString(addSourceFileComment=False))

@@ -1,7 +1,7 @@
 from pxr import Usd
 
 # Create a new stage stored only in memory:
-stage: Usd.Stage = Usd.Stage.CreateInMemory()
+stage = Usd.Stage.CreateInMemory()
 
 
 # Add a prim so the stage contains some data:
@@ -11,5 +11,5 @@ stage.DefinePrim("/World", "Xform")
 print("In-memory stage:")
 print(stage.ExportToString(addSourceFileComment=False))
 
-# Export the stage to disk if needed:
+# Write the stage to disk if needed:
 stage.Export("_assets/in_memory_stage.usda")

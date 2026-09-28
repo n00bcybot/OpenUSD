@@ -21,4 +21,5 @@ cube_prop_names = cube.GetPrim().GetPropertyNames()
 for prop_name in cube_prop_names:
     print(f"{prop_name}:", cube.GetPrim().GetAttribute(prop_name).Get())
 
+# print(stage.ExportToString())
 stage.Save()
